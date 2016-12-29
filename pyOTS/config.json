@@ -1,0 +1,12 @@
+{
+    "db_host":"localhost",
+    "db_port":"3306",
+    "db_user":"root",
+    "db_password":"changeme",
+    "db_name":"pyots",
+    "token_length":"32",
+    "password_length":"18",
+    "password_salt":"l2ie2e29em2jemeded92e",
+    "default_ttl":"7",
+    "secret_key":"1234567891111111"
+}
